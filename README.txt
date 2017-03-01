@@ -1,4 +1,4 @@
 # test-oc
 Test pour le cours OC
 
-Ceci est une modification du fichier.
+Ce repository est mon repository de test pour apprendre à utiliser GitHub
